@@ -381,7 +381,7 @@ import {
   //PhXLogo,
 } from "@phosphor-icons/vue";
 //import { RouterLink } from "vue-router";
-import resume from "@/assets/images/resume.pdf"
+import resume from "@/assets/images/jonathan-lainez-resume.pdf"
 // import profile from '@/assets/images/profile.png'
 </script>
 
